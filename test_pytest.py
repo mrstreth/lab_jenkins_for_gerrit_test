@@ -1,4 +1,6 @@
 import pytest
+from peewee import *
+import peewee
 #import main
 import os.path
 #-------------------------------------------------
